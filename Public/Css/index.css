@@ -1,0 +1,161 @@
+
+#main_body{
+	width: 100%;
+	height: 1000px;
+	/*background:#E7ECEF;*/
+}
+#main_body #main{
+	width: 80%;
+	height: 1000px;
+	margin:0 auto;
+	
+}
+#main_body #main #content{
+	width: 64%;
+	height: 915px;
+	float: left;
+	margin-top: 30px;
+	background:#fff;
+	text-overflow: ellipsis;
+	border-right: 1px solid #F3F3F3;
+}
+#main_body #main #content #content_box{
+	margin-left: 25px;
+	margin-top: 20px;
+}
+#main_body #main #content #content_box p.title{
+	font-size: 22px;
+}
+#main_body #main #content #content_box p.content{
+	margin-top: 5px;
+	font-size: 16px;
+}
+#main_body #main #content #content_box p.time{
+	font-size: 12px;
+}
+#main_body #main #content #content_box p.username{
+	font-size: 15px;
+	margin-left: 600px;
+}
+#main_body #main #content #content_box p.filename{
+
+}
+#main_body #main #content a.update,.delete{
+
+	display: block;
+	width: 53px;
+	height:25px;
+	line-height: 25px;
+	text-align: center;
+	font-size: 15px;
+	color: #CC0000;
+	text-decoration: none;
+	font-family: "微软雅黑";
+	border:2px solid #CC0000;
+	border-radius: 15px;
+}
+#main_body #main #content #content_box p a.update{
+	/*background-image: url(../Images/update.png);*/
+	margin-top: 4px;
+	margin-left: 600px;
+
+}
+#main_body #main #content p a.delete{
+	/*background-image: url(../Images/delete.png);*/
+	
+	margin-left:660px; 
+	margin-top: -28px;
+}
+#main_body #main #content p.title{
+	font-size: 24px;
+	color: #48525E;
+}
+#main_body #main #content p.line{
+	background: #F3F3F3;
+	height: 2px;
+	width: 740px;
+	margin-top: 8px;
+
+}
+#main_body #main #content p span{
+	font-size: 12px;
+	color: #CC0000;
+}
+#main_body #main #about{
+	width: 35%;
+	height: 915px;
+	float: left;
+	margin-top: 30px;
+	background:#FFFFFF;
+	
+}
+#main_body #main #about #expert_title{
+	background: #d13030 none repeat scroll 0 0;
+	color: #fff;
+	font-size: 14px;
+	height: 28px;
+	width: 90px;
+	left: -7px;
+	line-height: 28px;
+	padding: 0 20px;
+	
+	top:10px;
+}
+#main_body #main #about #about_writer{
+	width: 350px;
+	height: 400px;
+	margin: 0 auto;
+	margin-top: 20px;
+	/*filter:alpha(Opacity=10);-moz-opacity:0.1;opacity: 0.5;*/
+	background: rgba(255,255,255,0.3);
+	border-bottom:2px solid #CFD0D1;
+}
+#main_body #main #about #about_writer img.head_expert{
+	border: medium none;
+	outline: medium none;
+	border-radius: 50%;
+	display: block;
+	height: 130px;
+	margin: 0 auto;
+	width: 130px;
+}
+#main_body #main #about #about_writer p.writer_name{
+	font-weight: normal;
+	color: black;
+	margin-top: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+#main_body #main #about #about_writer p.writer_description{
+	width: 160px;
+	border-radius: 10px;
+	border: 1px solid orange;
+	color: orange;
+	font-size: 15px;
+	margin:0 auto;
+	margin-top: 20px;
+	text-align: center;
+}
+#main_body #main #about #about_writer p.writer_content{
+	width: 250px;
+	color: black;
+	font-size: 14px;
+
+	margin:0 auto;
+	margin-top: 20px;
+	text-align: center;
+}
+#main_body #main #about #about_writer img.icon_l{
+	left: 0;
+	position: absolute;
+	top:0;
+}
+#main_body #main #about #about_writer img.icon_r{
+	bottom: 0;
+	position: absolute;
+	right:0;
+}
+
+
+
+

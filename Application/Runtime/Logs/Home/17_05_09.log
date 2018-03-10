@@ -1,0 +1,396 @@
+[ 2017-05-09T19:17:38+08:00 ] 101.226.102.78 /Blogs/index.php/Home/Login/login.html?nsukey=edKgGj3YWQfGX7IlUte%2FCtpWJYhv5g43I4lhk9HzI%2FAWT5SkRD0TC0tsjiJTvCDFFWjfon70sjIQzelryA%2FTi1%2ByVu2v%2FsQ4wvMz8BAc9RNvM3E8mY%2FGuSBlTDgPZZ8Ne3xTkAYQWkqir9NptfpAKegei%2FMY2Qw0d%2FLGpdXy6qn2ZKov%2Bt8O2q4C0FKRIk%2FD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.029345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.029640s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000206s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000515s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.125050s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.125348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.021040s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.021312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010351s ]
+
+[ 2017-05-09T19:17:39+08:00 ] 101.226.114.166 /Blogs/index.php/Home/Login/login.html?nsukey=edKgGj3YWQfGX7IlUte%2FCtpWJYhv5g43I4lhk9HzI%2FAWT5SkRD0TC0tsjiJTvCDFFWjfon70sjIQzelryA%2FTi1%2ByVu2v%2FsQ4wvMz8BAc9RNvM3E8mY%2FGuSBlTDgPZZ8Ne3xTkAYQWkqir9NptfpAKegei%2FMY2Qw0d%2FLGpdXy6qn2ZKov%2Bt8O2q4C0FKRIk%2FD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001227s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000490s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001225s ]
+
+[ 2017-05-09T19:17:40+08:00 ] 101.226.68.141 /Blogs/index.php/Home/Login/login.html?nsukey=edKgGj3YWQfGX7IlUte%2FCtpWJYhv5g43I4lhk9HzI%2FAWT5SkRD0TC0tsjiJTvCDFFWjfon70sjIQzelryA%2FTi1%2ByVu2v%2FsQ4wvMz8BAc9RNvM3E8mY%2FGuSBlTDgPZZ8Ne3xTkAYQWkqir9NptfpAKegei%2FMY2Qw0d%2FLGpdXy6qn2ZKov%2Bt8O2q4C0FKRIk%2FD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001421s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000200s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000494s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012292s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001004s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001280s ]
+
+[ 2017-05-09T19:17:40+08:00 ] 101.226.93.201 /Blogs/index.php/Home/Login/login.html?nsukey=edKgGj3YWQfGX7IlUte%2FCtpWJYhv5g43I4lhk9HzI%2FAWT5SkRD0TC0tsjiJTvCDFFWjfon70sjIQzelryA%2FTi1%2ByVu2v%2FsQ4wvMz8BAc9RNvM3E8mY%2FGuSBlTDgPZZ8Ne3xTkAYQWkqir9NptfpAKegei%2FMY2Qw0d%2FLGpdXy6qn2ZKov%2Bt8O2q4C0FKRIk%2FD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001376s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000486s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000923s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001230s ]
+
+[ 2017-05-09T19:17:42+08:00 ] 112.102.239.49 /Blogs/index.php/Home/Login/login.html?nsukey=edKgGj3YWQfGX7IlUte%2FCtpWJYhv5g43I4lhk9HzI%2FAWT5SkRD0TC0tsjiJTvCDFFWjfon70sjIQzelryA%2FTi1%2ByVu2v%2FsQ4wvMz8BAc9RNvM3E8mY%2FGuSBlTDgPZZ8Ne3xTkAYQWkqir9NptfpAKegei%2FMY2Qw0d%2FLGpdXy6qn2ZKov%2Bt8O2q4C0FKRIk%2FD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000492s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001006s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001284s ]
+
+[ 2017-05-09T19:17:44+08:00 ] 101.226.65.104 /Blogs/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000472s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012282s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012571s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001312s ]
+
+[ 2017-05-09T19:17:47+08:00 ] 180.153.206.21 /Blogs/index.php/Home/Login/login.html?nsukey=edKgGj3YWQfGX7IlUte%2FCtpWJYhv5g43I4lhk9HzI%2FAWT5SkRD0TC0tsjiJTvCDFFWjfon70sjIQzelryA%2FTi1%2ByVu2v%2FsQ4wvMz8BAc9RNvM3E8mY%2FGuSBlTDgPZZ8Ne3xTkAYQWkqir9NptfpAKegei%2FMY2Qw0d%2FLGpdXy6qn2ZKov%2Bt8O2q4C0FKRIk%2FD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000489s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001275s ]
+
+[ 2017-05-09T19:17:47+08:00 ] 101.226.33.224 /Blogs/index.php/Home/Login/login.html?nsukey=edKgGj3YWQfGX7IlUte%2FCtpWJYhv5g43I4lhk9HzI%2FAWT5SkRD0TC0tsjiJTvCDFFWjfon70sjIQzelryA%2FTi1%2ByVu2v%2FsQ4wvMz8BAc9RNvM3E8mY%2FGuSBlTDgPZZ8Ne3xTkAYQWkqir9NptfpAKegei%2FMY2Qw0d%2FLGpdXy6qn2ZKov%2Bt8O2q4C0FKRIk%2FD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001011s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000486s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011879s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000901s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001603s ]
+
+[ 2017-05-09T19:18:03+08:00 ] 101.226.69.112 /Blogs/index.php/Home/Login/login.html?nsukey=xXWfW00GpPJH7UHD9KmCvbGMFHm3Ir%2B64DzxjHPy1qDL7ziRTzForzej%2FsInQvBq5LDIl%2Fwl50KyjfT%2FMLY4c7z9ETsuQ0aMVkGwlT4ZYhkfFxjcHwwCADWRK0M66gwrF2v%2Fv9TNWUAe9cb0MuqchT9Prdw0n0x1NHtiHpR1WC8LIadV3Az8UshsPsaxguVk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000264s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000626s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000996s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001326s ]
+
+[ 2017-05-09T19:18:03+08:00 ] 101.226.102.78 /Blogs/index.php/Home/Login/login.html?nsukey=xXWfW00GpPJH7UHD9KmCvbGMFHm3Ir%2B64DzxjHPy1qDL7ziRTzForzej%2FsInQvBq5LDIl%2Fwl50KyjfT%2FMLY4c7z9ETsuQ0aMVkGwlT4ZYhkfFxjcHwwCADWRK0M66gwrF2v%2Fv9TNWUAe9cb0MuqchT9Prdw0n0x1NHtiHpR1WC8LIadV3Az8UshsPsaxguVk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000484s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012036s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001609s ]
+
+[ 2017-05-09T19:18:03+08:00 ] 112.102.239.49 /Blogs/index.php/Home/Login/login.html?nsukey=xXWfW00GpPJH7UHD9KmCvbGMFHm3Ir%2B64DzxjHPy1qDL7ziRTzForzej%2FsInQvBq5LDIl%2Fwl50KyjfT%2FMLY4c7z9ETsuQ0aMVkGwlT4ZYhkfFxjcHwwCADWRK0M66gwrF2v%2Fv9TNWUAe9cb0MuqchT9Prdw0n0x1NHtiHpR1WC8LIadV3Az8UshsPsaxguVk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000476s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001155s ]
+
+[ 2017-05-09T19:18:12+08:00 ] 112.65.193.13 /Blogs/index.php/Home/Login/login.html?nsukey=xXWfW00GpPJH7UHD9KmCvbGMFHm3Ir%2B64DzxjHPy1qDL7ziRTzForzej%2FsInQvBq5LDIl%2Fwl50KyjfT%2FMLY4c7z9ETsuQ0aMVkGwlT4ZYhkfFxjcHwwCADWRK0M66gwrF2v%2Fv9TNWUAe9cb0MuqchT9Prdw0n0x1NHtiHpR1WC8LIadV3Az8UshsPsaxguVk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001320s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000526s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000989s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2017-05-09T19:18:12+08:00 ] 61.151.226.199 /Blogs/index.php/Home/Login/login.html?nsukey=xXWfW00GpPJH7UHD9KmCvbGMFHm3Ir%2B64DzxjHPy1qDL7ziRTzForzej%2FsInQvBq5LDIl%2Fwl50KyjfT%2FMLY4c7z9ETsuQ0aMVkGwlT4ZYhkfFxjcHwwCADWRK0M66gwrF2v%2Fv9TNWUAe9cb0MuqchT9Prdw0n0x1NHtiHpR1WC8LIadV3Az8UshsPsaxguVk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000496s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012154s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001313s ]
+
+[ 2017-05-09T19:18:24+08:00 ] 112.102.239.49 /Blogs/index.php/Home/Login/doLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0358s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = 'wangjiahuan' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-05-09T19:18:26+08:00 ] 101.226.102.80 /Blogs/index.php/Home/Login/doLogin?nsukey=TnO83bHv4iCL5QmL%2FkMyt0Hh4zp24idhV59GthJ%2BUV91MkYvQjEYlLDqjc%2B7LXGvdp3ZoRqH%2BPDxI%2FZ2JylF6W43SPk01hxyE2yxNISmTRtx%2Fi16%2Bdf5HIjDIwcgW32Zi473EFezGB07DL0VOyvtaJBuS2XdGPSY15CSHXiC%2BJRqFPm%2F2sjSxCbFwYxp7RAl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000481s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000988s ]
+
+[ 2017-05-09T19:18:28+08:00 ] 101.226.125.109 /Blogs/index.php/Home/Login/doLogin?nsukey=TnO83bHv4iCL5QmL%2FkMyt0Hh4zp24idhV59GthJ%2BUV91MkYvQjEYlLDqjc%2B7LXGvdp3ZoRqH%2BPDxI%2FZ2JylF6W43SPk01hxyE2yxNISmTRtx%2Fi16%2Bdf5HIjDIwcgW32Zi473EFezGB07DL0VOyvtaJBuS2XdGPSY15CSHXiC%2BJRqFPm%2F2sjSxCbFwYxp7RAl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000458s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000969s ]
+
+[ 2017-05-09T19:18:30+08:00 ] 112.102.239.49 /Blogs/index.php/Home/Login/doLogin?nsukey=TnO83bHv4iCL5QmL%2FkMyt0Hh4zp24idhV59GthJ%2BUV91MkYvQjEYlLDqjc%2B7LXGvdp3ZoRqH%2BPDxI%2FZ2JylF6W43SPk01hxyE2yxNISmTRtx%2Fi16%2Bdf5HIjDIwcgW32Zi473EFezGB07DL0VOyvtaJBuS2XdGPSY15CSHXiC%2BJRqFPm%2F2sjSxCbFwYxp7RAl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000449s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000835s ]
+
+[ 2017-05-09T19:18:33+08:00 ] 101.226.33.226 /Blogs/index.php/Home/Login/doLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001322s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000473s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011349s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001072s ]
+
+[ 2017-05-09T19:18:36+08:00 ] 101.226.68.213 /Blogs/index.php/Home/Login/doLogin?nsukey=TnO83bHv4iCL5QmL%2FkMyt0Hh4zp24idhV59GthJ%2BUV91MkYvQjEYlLDqjc%2B7LXGvdp3ZoRqH%2BPDxI%2FZ2JylF6W43SPk01hxyE2yxNISmTRtx%2Fi16%2Bdf5HIjDIwcgW32Zi473EFezGB07DL0VOyvtaJBuS2XdGPSY15CSHXiC%2BJRqFPm%2F2sjSxCbFwYxp7RAl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000465s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003937s ]
+
+[ 2017-05-09T19:18:36+08:00 ] 180.153.212.13 /Blogs/index.php/Home/Login/doLogin?nsukey=TnO83bHv4iCL5QmL%2FkMyt0Hh4zp24idhV59GthJ%2BUV91MkYvQjEYlLDqjc%2B7LXGvdp3ZoRqH%2BPDxI%2FZ2JylF6W43SPk01hxyE2yxNISmTRtx%2Fi16%2Bdf5HIjDIwcgW32Zi473EFezGB07DL0VOyvtaJBuS2XdGPSY15CSHXiC%2BJRqFPm%2F2sjSxCbFwYxp7RAl
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000457s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011397s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011685s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000919s ]
+

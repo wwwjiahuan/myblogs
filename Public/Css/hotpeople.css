@@ -1,0 +1,118 @@
+
+#main_body{
+	width: 100%;
+	height: 1000px;
+	/*background:#E7ECEF;*/
+}
+#main_body #main{
+	width: 80%;
+	height: 1000px;
+	margin:0 auto;
+	
+}
+#main_body #main #content{
+	width: 64%;
+	height: 945px;
+	float: left;
+	background:white;
+	border-right: 1px solid #F3F3F3;
+}
+
+
+.person{
+	width: 80%;
+	height: 240px;
+	margin-left: 11%;
+	margin-top: 5%;
+	/*background: green;*/
+	float: left;
+}
+.image_quotefade{
+	width: 40%;
+	height: 100%;
+	float: left;
+}
+.image_quotefade img{
+	width: 100%;
+	height: 100%;
+}
+.quotehover{
+	width: 100%;
+	height: 100%;
+	margin-top: -98.5%;
+	text-align: center;
+	transition: background 1s;
+	transition: color 1s;
+	position: relative;
+}
+.quotehover h5{
+	padding-top: 25%;
+}
+.quotehover:hover{
+	color: #fff;
+	background: rgba(255,201,21,0.5);
+}
+.info{
+	width: 56%;
+	height: 100%;
+	/*margin-top: -33%;*/
+	/*margin-left: 4px;*/
+	float: right;
+}
+.info h2{
+	color: #191919;
+	font-size: 22px;
+}
+.info h4{
+	font-size: 21px;
+}
+.info p{
+	font-size: 14px;
+}
+.light-gray{
+	height: 10%;
+	width: 10%;
+	
+}
+
+
+#main_body #main #about{
+	height: 945px;
+	width: 30%;
+	float: left;
+	/*background: #666;*/
+}
+#main_body #main #about .blogs{
+	width: 80%;
+	height: 300px;
+	/*background: green;*/
+	margin-top: 100px;
+	margin-left: 10%;
+}
+#main_body #main #about .blogs p{
+	margin-left: 6px;
+	color: #454544;
+	font-size: 17px;
+}
+#main_body #main #about .blogs ul li{
+	font-size: 13px;
+	margin-top: 4px;
+	color: #727296;
+}
+#main_body #main #about .blogs ul li span{
+	font-size: 10px;
+}
+#main_body #main #about .text{
+	width: 80%;
+	height: 300px;
+	/*background: pink;*/
+	margin-left: 11%;
+}
+#main_body #main #about .text h1{
+	font-weight: normal;
+	font-size: 17px;
+	color: #454544;
+}
+#main_body #main #about .text p{
+	font-size: 13px;
+}

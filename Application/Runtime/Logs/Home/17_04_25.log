@@ -1,0 +1,306 @@
+[ 2017-04-25T11:06:57+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.022812s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014286s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0525s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000450s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.074990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007857s ]
+
+[ 2017-04-25T11:11:36+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001315s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000486s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011197s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000962s ]
+
+[ 2017-04-25T11:13:29+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/spaces/viewdefaultdecorator.action?decoratorName=file:///etc/passwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001290s ]
+ERR: 非法操作:spaces
+
+[ 2017-04-25T11:14:04+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=jh2Vn7C%2FtDBDuFQUfF1b8R7JL8AQnuQ4TaggXCYYZv35KfPeZzMOd9r07ytVUwO%2B029P1i%2FwU0IOLLVRXr2D9BCgZv2wi8VCfe0Praluq2yD7S2dllI9gBlSD9bqNgrx3rzmiJNQpWGWY0q84e8%2Fks5bM%2B9ugBMpQL8BOLyh%2BXXT4BZCThEKkELBXQmH%2FPBT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001365s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000466s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000969s ]
+
+[ 2017-04-25T11:16:17+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=jh2Vn7C%2FtDBDuFQUfF1b8R7JL8AQnuQ4TaggXCYYZv35KfPeZzMOd9r07ytVUwO%2B029P1i%2FwU0IOLLVRXr2D9BCgZv2wi8VCfe0Praluq2yD7S2dllI9gBlSD9bqNgrx3rzmiJNQpWGWY0q84e8%2Fks5bM%2B9ugBMpQL8BOLyh%2BXXT4BZCThEKkELBXQmH%2FPBT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000454s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000958s ]
+
+[ 2017-04-25T11:17:41+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/'%22+onmouseover=alert()+d='%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+ERR: 非法操作:'"+onmouseover=alert()+d='"
+
+[ 2017-04-25T11:20:07+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/%27%22%20onmouseover%3Dalert%28%29%20d%3D%27%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001862s ]
+ERR: 非法操作:'" onmouseover=alert() d='"
+
+[ 2017-04-25T11:30:24+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/%2527%2522%2520onmouseover%253Dalert%2528%2529%2520d%253D%2527%2522
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+ERR: 非法操作:%27%22%20onmouseover%3Dalert%28%29%20d%3D%27%22
+
+[ 2017-04-25T11:33:06+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/'%22/%3E%3C/script%3E%3Cscript%3Ealert()%3C/script%3E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+ERR: 非法操作:'"
+
+[ 2017-04-25T11:35:00+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/%2527%2522%252f%253E%253C%252fscript%253E%253Cscript%253Ealert%2528%2529%253C%252fscript%253E
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001305s ]
+ERR: 非法操作:%27%22%2f%3E%3C%2fscript%3E%3Cscript%3Ealert%28%29%3C%2fscript%3E
+
+[ 2017-04-25T11:38:03+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=jh2Vn7C%2FtDBDuFQUfF1b8R7JL8AQnuQ4TaggXCYYZv35KfPeZzMOd9r07ytVUwO%2B029P1i%2FwU0IOLLVRXr2D9BCgZv2wi8VCfe0Praluq2yD7S2dllI9gBlSD9bqNgrx3rzmiJNQpWGWY0q84e8%2Fks5bM%2B9ugBMpQL8BOLyh%2BXXT4BZCThEKkELBXQmH%2FPBTi4089525i
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0171s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000516s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012467s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-04-25T11:40:24+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=jh2Vn7C%2FtDBDuFQUfF1b8R7JL8AQnuQ4TaggXCYYZv35KfPeZzMOd9r07ytVUwO%2B029P1i%2FwU0IOLLVRXr2D9BCgZv2wi8VCfe0Praluq2yD7S2dllI9gBlSD9bqNgrx3rzmiJNQpWGWY0q84e8%2Fks5bM%2B9ugBMpQL8BOLyh%2BXXT4BZCThEKkELBXQmH%2FPBTi4089525i
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001302s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000492s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000956s ]
+
+[ 2017-04-25T11:41:10+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=jh2Vn7C%2FtDBDuFQUfF1b8R7JL8AQnuQ4TaggXCYYZv35KfPeZzMOd9r07ytVUwO%2B029P1i%2FwU0IOLLVRXr2D9BCgZv2wi8VCfe0Praluq2yD7S2dllI9gBlSD9bqNgrx3rzmiJNQpWGWY0q84e8%2Fks5bM%2B9ugBMpQL8BOLyh%2BXXT4BZCThEKkELBXQmH%2FPBTi4089525i
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000455s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000985s ]
+
+[ 2017-04-25T11:41:36+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=jh2Vn7C%2FtDBDuFQUfF1b8R7JL8AQnuQ4TaggXCYYZv35KfPeZzMOd9r07ytVUwO%2B029P1i%2FwU0IOLLVRXr2D9BCgZv2wi8VCfe0Praluq2yD7S2dllI9gBlSD9bqNgrx3rzmiJNQpWGWY0q84e8%2Fks5bM%2B9ugBMpQL8BOLyh%2BXXT4BZCThEKkELBXQmH%2FPBTi4089525i
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000496s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000953s ]
+
+[ 2017-04-25T11:42:04+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=jh2Vn7C%2FtDBDuFQUfF1b8R7JL8AQnuQ4TaggXCYYZv35KfPeZzMOd9r07ytVUwO%2B029P1i%2FwU0IOLLVRXr2D9BCgZv2wi8VCfe0Praluq2yD7S2dllI9gBlSD9bqNgrx3rzmiJNQpWGWY0q84e8%2Fks5bM%2B9ugBMpQL8BOLyh%2BXXT4BZCThEKkELBXQmH%2FPBT
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000511s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011706s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001022s ]
+
+[ 2017-04-25T11:42:18+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001380s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000438s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000952s ]
+
+[ 2017-04-25T11:42:38+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=amF2YXNjcmlwdDpwcm9tcHQoMTExKTt4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000440s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011296s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000954s ]
+
+[ 2017-04-25T11:42:44+08:00 ] 140.205.201.32 /Blogs/index.php/Home/Login/doLogin?nsukey=jh2Vn7C%2FtDBDuFQUfF1b8R7JL8AQnuQ4TaggXCYYZv35KfPeZzMOd9r07ytVUwO%2B029P1i%2FwU0IOLLVRXr2D9BCgZv2wi8VCfe0Praluq2yD7S2dllI9gBlSD9bqNgrx3rzmiJNQpWGWY0q84e8%2Fks5bM%2B9ugBMpQL8BOLyh%2BXXT4BZCThEKkELBXQmH%2FPBTi4089525i
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001316s ]
+NOTIC: [8] Undefined index: username C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 12 行.
+NOTIC: [8] Undefined index: password C:\wamp\www\Blogs\Application\Home\Controller\LoginController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `tp_user` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `tp_user` WHERE `username` = null LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000174s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000456s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000959s ]
+
